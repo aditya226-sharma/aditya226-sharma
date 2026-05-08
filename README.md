@@ -20,32 +20,14 @@
 
 <img align="right" height="270" width="380" alt="coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```javascript
-const aditya = {
-    education: "Final Year Engineering Student",
-    
-    languages: ["C", "C++", "Java", "Python", "JavaScript"],
-
-    technologies: {
-        frontEnd: ["HTML", "CSS", "React"],
-        backEnd: ["Node.js"],
-        database: ["MongoDB", "MySQL"],
-        tools: ["Git", "GitHub", "VS Code", "Linux"]
-    },
-
-    interests: [
-        "Web Development 🌐",
-        "Cyber Security 🔐",
-        "Artificial Intelligence 🤖",
-        "Open Source 🌟",
-        "App Development 📱"
-    ],
-
-    currentFocus: "Building Real-World Projects 🚀",
-
-    funFact: "I turn coffee ☕ into code 💻"
-};
-```
+💡 Passionate about building innovative and impactful technology solutions.  
+🎓 Final Year Engineering Student with strong interest in Software Development, Cyber Security, and Open Source.  
+💻 Skilled in Web Development, Programming, and Arduino-based Projects.  
+🔐 Exploring Privacy, Security, and modern technologies to solve real-world problems.  
+🚀 Currently working on creative startup ideas and development projects for Android & iOS platforms.  
+🌱 Continuously learning Full Stack Development, AI tools, and advanced technologies.  
+🤝 Love contributing to communities, collaborating on projects, and learning from developers worldwide.  
+⚡ Turning ideas into reality through code and innovation.
 
 <div align="center">
 
