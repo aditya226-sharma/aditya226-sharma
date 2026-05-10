@@ -21,7 +21,7 @@
 <img align="right" height="270" width="380" alt="coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 💡 Passionate about building innovative and impactful technology solutions.  
-🎓 Final Year Engineering Student with strong interest in Software Development, Cyber Security, and Open Source.  
+🎓  Engineering Student with strong interest in Software Development, Cyber Security, and Open Source.  
 💻 Skilled in Web Development, Programming, and Arduino-based Projects.  
 🔐 Exploring Privacy, Security, and modern technologies to solve real-world problems.  
 🚀 Currently working on creative startup ideas and development projects for Android & iOS platforms.  
