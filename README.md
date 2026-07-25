@@ -139,18 +139,26 @@ I'm a passionate **Cybersecurity Engineering** student who believes in learning 
 
 ## GitHub Statistics
 
-<a href="https://github.com/aditya226-sharma">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aditya226-sharma&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya226-sharma&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css" />
-</a>
+<div align="center">
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya226-sharma&theme=tokyonight&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=484f58&border=30363d" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya226-sharma&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="49%"/>
 
-<a href="https://github.com/aditya226-sharma">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya226-sharma&theme=radical&hide_border=true" width="700" />
-</a>
+</div>
 
-<br/>
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=aditya226-sharma&label=Profile+Views&color=00D4FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/aditya226-sharma?color=FF4444&style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
+<img src="https://img.shields.io/github/repos/aditya226-sharma?color=00D4FF&style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+<img src="https://img.shields.io/github/stars/aditya226-sharma?color=FFD700&style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
+<img src="https://img.shields.io/github/following/aditya226-sharma?color=00FF88&style=for-the-badge&logo=github&logoColor=white" alt="Following"/>
+
+</div>
+
+<br>
 
 ![GitHub Metrics](https://github-profile-trophy.vercel.app/?username=aditya226-sharma&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=10)
 
