@@ -269,16 +269,418 @@ Modern, responsive portfolio website showcasing projects, skills, and achievemen
 
 ---
 
-## Certifications
+## 🏆 Certifications & Professional Credentials
 
-![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![CompTIA](https://img.shields.io/badge/CompTIA-E8142D?style=for-the-badge&logo=comptia&logoColor=white)
-![EC-Council](https://img.shields.io/badge/EC--Council-FF6B00?style=for-the-badge&logo=ec-council&logoColor=white)
-![ISC2](https://img.shields.io/badge/ISC2-003366?style=for-the-badge&logo=isc2&logoColor=white)
+> *A curated collection of my professional certifications, credentials, and achievements in cybersecurity, cloud, and technology.*
+
+---
+
+### 🛡️ Cybersecurity Certifications
+
+<table>
+<tr>
+<td width="50%">
+
+**Certified Online Fraud Prevention Specialist (COFPS)**
+![Status](https://img.shields.io/badge/✅-Certified-00D4FF?style=flat-square)
+![Issuer](https://img.shields.io/badge/Issuer-Hack_%26_Fix_Academy-FF6B35?style=flat-square)
+
+| | |
+|---|---|
+| **Issuing Organization** | Hack & Fix Academy |
+| **Category** | Cybersecurity |
+| **Credential ID** | `COFPS-XXXX-XXXX` |
+| **Issue Date** | 2025 |
+| **Skills** | Fraud Prevention, Online Security |
+
+[![Verify](https://img.shields.io/badge/🔗-Verify_Credential-00D4FF?style=for-the-badge)](https://hackandfix.com)
+
+</td>
+<td width="50%">
+
+**Cybersecurity Career Starter Certificate (CCSC)**
+![Status](https://img.shields.io/badge/✅-Certified-00D4FF?style=flat-square)
+![Issuer](https://img.shields.io/badge/Issuer-Hack_%26_Fix_Academy-FF6B35?style=flat-square)
+
+| | |
+|---|---|
+| **Issuing Organization** | Hack & Fix Academy |
+| **Category** | Cybersecurity |
+| **Credential ID** | `CCSC-XXXX-XXXX` |
+| **Issue Date** | 2025 |
+| **Skills** | Cybersecurity Fundamentals, Career Prep |
+
+[![Verify](https://img.shields.io/badge/🔗-Verify_Credential-00D4FF?style=for-the-badge)](https://hackandfix.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Introduction to Critical Infrastructure Protection (ICIP)**
+![Status](https://img.shields.io/badge/✅-Certified-00D4FF?style=flat-square)
+![Issuer](https://img.shields.io/badge/Issuer-OPSWAT_Academy-009688?style=flat-square)
+
+| | |
+|---|---|
+| **Issuing Organization** | OPSWAT Academy |
+| **Category** | Critical Infrastructure |
+| **Credential ID** | `ICIP-XXXX-XXXX` |
+| **Issue Date** | 2025 |
+| **Skills** | Critical Infrastructure Security, OPSWAT |
+
+[![Verify](https://img.shields.io/badge/🔗-Verify_Credential-00D4FF?style=for-the-badge)](https://opswat.com)
+
+</td>
+<td width="50%">
+
+**Drop Certified Security Course (DCSC) – Web Application Penetration Testing**
+![Status](https://img.shields.io/badge/✅-Certified-00D4FF?style=flat-square)
+![Issuer](https://img.shields.io/badge/Issuer-The_Drop_Organization-9B59B6?style=flat-square)
+
+| | |
+|---|---|
+| **Issuing Organization** | The Drop Organization |
+| **Category** | Penetration Testing |
+| **Credential ID** | `DCSC-XXXX-XXXX` |
+| **Issue Date** | 2025 |
+| **Skills** | Web App Pentesting, Vulnerability Assessment |
+
+[![Verify](https://img.shields.io/badge/🔗-Verify_Credential-00D4FF?style=for-the-badge)](https://thedrop.org)
+
+</td>
+</tr>
+</table>
+
+---
+
+### ☁️ Cloud & Architecture
+
+<table>
+<tr>
+<td width="50%">
+
+**AWS Solutions Architecture Job Simulation**
+![Status](https://img.shields.io/badge/✅-Completed-00FF88?style=flat-square)
+![Issuer](https://img.shields.io/badge/Issuer-Forage-FF9900?style=flat-square)
+
+| | |
+|---|---|
+| **Issuing Organization** | Forage |
+| **Category** | Cloud Architecture |
+| **Credential ID** | `FORAGE-AWS-XXXX` |
+| **Issue Date** | 2025 |
+| **Skills** | AWS, Cloud Architecture, Solutions Design |
+
+[![Verify](https://img.shields.io/badge/🔗-View_Program-FF9900?style=for-the-badge)](https://www.theforage.com)
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏢 Industry Job Simulations
+
+<table>
+<tr>
+<td width="50%">
+
+**Deloitte Australia – Cyber Job Simulation**
+![Status](https://img.shields.io/badge/✅-Completed-00FF88?style=flat-square)
+![Issuer](https://img.shields.io/badge/Issuer-Forage-86BC25?style=flat-square)
+
+| | |
+|---|---|
+| **Issuing Organization** | Forage |
+| **Category** | Industry Simulation |
+| **Credential ID** | `FORAGE-DELOITTE-XXXX` |
+| **Issue Date** | 2025 |
+| **Skills** | Cyber Security Analysis, Real-world Scenarios |
+
+[![Verify](https://img.shields.io/badge/🔗-View_Program-86BC25?style=for-the-badge)](https://www.theforage.com)
+
+</td>
+<td width="50%">
+
+**Tata – Cybersecurity Analyst Job Simulation**
+![Status](https://img.shields.io/badge/✅-Completed-00FF88?style=flat-square)
+![Issuer](https://img.shields.io/badge/Issuer-Forage-0072C6?style=flat-square)
+
+| | |
+|---|---|
+| **Issuing Organization** | Forage |
+| **Category** | Industry Simulation |
+| **Credential ID** | `FORAGE-TATA-XXXX` |
+| **Issue Date** | 2025 |
+| **Skills** | Security Analysis, Threat Detection |
+
+[![Verify](https://img.shields.io/badge/🔗-View_Program-0072C6?style=for-the-badge)](https://www.theforage.com)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💼 Professional Experience
+
+<table>
+<tr>
+<td width="50%">
+
+**Cyber Security Internship**
+![Status](https://img.shields.io/badge/✅-Completed-FFD700?style=flat-square)
+![Org](https://img.shields.io/badge/Organization-Redynox-FF4444?style=flat-square)
+
+| | |
+|---|---|
+| **Organization** | Redynox |
+| **Role** | Intern |
+| **Category** | Professional Experience |
+| **Duration** | 2025 |
+| **Skills** | Cyber Security, Practical Experience |
+
+</td>
+<td width="50%">
+
+**Cyber Security Mentorship Program**
+![Status](https://img.shields.io/badge/✅-Completed-FFD700?style=flat-square)
+![Org](https://img.shields.io/badge/Organization-LaunchED_Global-2ECC71?style=flat-square)
+
+| | |
+|---|---|
+| **Organization** | LaunchED Global |
+| **Role** | Mentee |
+| **Category** | Mentorship |
+| **Duration** | 2025 |
+| **Skills** | Cybersecurity, Career Development |
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 Open Source & Community
+
+<table>
+<tr>
+<td width="50%">
+
+**GirlScript Summer of Code (GSSoC) 2026**
+![Status](https://img.shields.io/badge/✅-Selected-00D4FF?style=flat-square)
+![Role](https://img.shields.io/badge/Role-Contributor-FF00FF?style=flat-square)
+
+| | |
+|---|---|
+| **Organization** | GirlScript Foundation |
+| **Role** | Selected Contributor |
+| **Category** | Open Source |
+| **Tracks** | Open Source Track, AI Agents Track |
+| **Year** | 2026 |
+
+[![Track](https://img.shields.io/badge/🔗-Open_Source-00D4FF?style=for-the-badge)](https://gssoc.girlscript.tech)
+[![Track](https://img.shields.io/badge/🔗-AI_Agents-FF00FF?style=for-the-badge)](https://gssoc.girlscript.tech)
+
+</td>
+<td width="50%">
+
+**NVIDIA Developer Program**
+![Status](https://img.shields.io/badge/✅-Member-76B900?style=flat-square)
+![Issuer](https://img.shields.io/badge/Issuer-NVIDIA-76B900?style=flat-square)
+
+| | |
+|---|---|
+| **Organization** | NVIDIA Developer Program |
+| **Role** | Member |
+| **Category** | Developer Community |
+| **Benefits** | Early Access, SDKs, Resources |
+| **Year** | 2025 |
+
+[![Join](https://img.shields.io/badge/🔗-Join_Program-76B900?style=for-the-badge)](https://developer.nvidia.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**AINCAT 2026**
+![Status](https://img.shields.io/badge/✅-Participant-9B59B6?style=flat-square)
+
+| | |
+|---|---|
+| **Category** | AI Competition |
+| **Role** | Participant |
+| **Year** | 2026 |
+
+</td>
+<td width="50%">
+
+**Cryptonic Area – Cyber Security & Ethical Hacking Virtual Internship**
+![Status](https://img.shields.io/badge/✅-Selected-00FF88?style=flat-square)
+
+| | |
+|---|---|
+| **Organization** | Cryptonic Area |
+| **Status** | Selected |
+| **Category** | Virtual Internship |
+| **Skills** | Ethical Hacking, Cyber Security |
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 Achievement Summary
+
+<table>
+<tr>
+<td align="center" width="14%">
+
+![Total](https://img.shields.io/badge/Total-11-blue?style=for-the-badge)
+
+**Total**
+**Credentials**
+
+</td>
+<td align="center" width="14%">
+
+![Cyber](https://img.shields.io/badge/Cybersecurity-4-FF4444?style=for-the-badge)
+
+**Cybersecurity**
+**Certifications**
+
+</td>
+<td align="center" width="14%">
+
+![Cloud](https://img.shields.io/badge/Cloud-1-FF9900?style=for-the-badge)
+
+**Cloud**
+**Certifications**
+
+</td>
+<td align="center" width="14%">
+
+![Industry](https://img.shields.io/badge/Industry_Sims-2-2ECC71?style=for-the-badge)
+
+**Industry Job**
+**Simulations**
+
+</td>
+<td align="center" width="14%">
+
+![Intern](https://img.shields.io/badge/Internships-2-FFD700?style=for-the-badge)
+
+**Internships**
+**Completed**
+
+</td>
+<td align="center" width="14%">
+
+![OSS](https://img.shields.io/badge/Open_Source-2-00D4FF?style=for-the-badge)
+
+**Open Source**
+**Programs**
+
+</td>
+<td align="center" width="14%">
+
+![Community](https://img.shields.io/badge/Community-2-FF00FF?style=for-the-badge)
+
+**Community**
+**Programs**
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📌 Future Certification Roadmap
+
+> *My roadmap to becoming a world-class cybersecurity professional*
+
+<table>
+<tr>
+<td width="33%">
+
+#### 🎯 Entry Level
+
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-Future-E8142D?style=for-the-badge&labelColor=gray)
+![ISC² CC](https://img.shields.io/badge/ISC2_CC-Future-003366?style=for-the-badge&labelColor=gray)
+![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-Future-4285F4?style=for-the-badge&labelColor=gray)
+
+</td>
+<td width="33%">
+
+#### 🎯 Intermediate Level
+
+![CompTIA CySA+](https://img.shields.io/badge/CompTIA_CySA%2B-Future-E8142D?style=for-the-badge&labelColor=gray)
+![CompTIA PenTest+](https://img.shields.io/badge/CompTIA_PenTest%2B-Future-E8142D?style=for-the-badge&labelColor=gray)
+![eJPT](https://img.shields.io/badge/eJPT-Future-FF6B35?style=for-the-badge&labelColor=gray)
+![eCPPT](https://img.shields.io/badge/eCPPT-Future-FF6B35?style=for-the-badge&labelColor=gray)
+![PNPT](https://img.shields.io/badge/PNPT-Future-2ECC71?style=for-the-badge&labelColor=gray)
+
+</td>
+<td width="33%">
+
+#### 🎯 Advanced Level
+
+![OSCP](https://img.shields.io/badge/OSCP-Future-FF4444?style=for-the-badge&labelColor=gray)
+![OSWE](https://img.shields.io/badge/OSWE-Future-FF4444?style=for-the-badge&labelColor=gray)
+![CRTP](https://img.shields.io/badge/CRTP-Future-FFD700?style=for-the-badge&labelColor=gray)
+![CRTO](https://img.shields.io/badge/CRTO-Future-FFD700?style=for-the-badge&labelColor=gray)
+
+</td>
+</tr>
+<tr>
+<td width="33%">
+
+#### 🎯 Cloud Security
+
+![AWS Security Specialty](https://img.shields.io/badge/AWS_Security-Future-232F3E?style=for-the-badge&labelColor=gray)
+![Google Cloud Security](https://img.shields.io/badge/Google_Cloud_Security-Future-4285F4?style=for-the-badge&labelColor=gray)
+![Microsoft AZ-500](https://img.shields.io/badge/AZ_500-Future-00A4EF?style=for-the-badge&labelColor=gray)
+
+</td>
+<td width="33%">
+
+#### 🎯 Microsoft Certifications
+
+![Microsoft SC-200](https://img.shields.io/badge/SC_200-Future-00A4EF?style=for-the-badge&labelColor=gray)
+![Microsoft SC-100](https://img.shields.io/badge/SC_100-Future-00A4EF?style=for-the-badge&labelColor=gray)
+
+</td>
+<td width="33%">
+
+#### 🎯 Specialized Certifications
+
+![HTB CPTS](https://img.shields.io/badge/HTB_CPTS-Future-9FEF32?style=for-the-badge&labelColor=gray)
+![HTB CBBH](https://img.shields.io/badge/HTB_CBBH-Future-9FEF32?style=for-the-badge&labelColor=gray)
+![Splunk Power User](https://img.shields.io/badge/Splunk_Power_User-Future-65A637?style=for-the-badge&labelColor=gray)
+![Elastic Certified](https://img.shields.io/badge/Elastic_Certified-Future-005571?style=for-the-badge&labelColor=gray)
+![Cisco CyberOps](https://img.shields.io/badge/Cisco_CyberOps-Future-1BA0D7?style=for-the-badge&labelColor=gray)
+
+</td>
+</tr>
+<tr>
+<td colspan="3" align="center">
+
+#### 🎯 Ultimate Goals
+
+![GIAC GSEC](https://img.shields.io/badge/GIAC_GSEC-Future-FF6B00?style=for-the-badge&labelColor=gray)
+![GIAC GPEN](https://img.shields.io/badge/GIAC_GPEN-Future-FF6B00?style=for-the-badge&labelColor=gray)
+![GIAC GCIA](https://img.shields.io/badge/GIAC_GCIA-Future-FF6B00?style=for-the-badge&labelColor=gray)
+![CISSP](https://img.shields.io/badge/CISSP-Future-003366?style=for-the-badge&labelColor=gray)
+
+</td>
+</tr>
+</table>
 
 ---
 
