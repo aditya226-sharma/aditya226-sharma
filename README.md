@@ -150,7 +150,15 @@ I'm a passionate **Cybersecurity Engineering** student who believes in learning 
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=aditya226-sharma&label=Profile+Views&color=00D4FF&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/badge/Total_Contributions-8943-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Total Contributions"/>
+<img src="https://img.shields.io/badge/Total_Contributions-8944-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Total Contributions"/>
+<img src="https://img.shields.io/badge/Member_Since-May_2026-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Member Since"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
 <img src="https://img.shields.io/github/followers/aditya226-sharma?color=FF4444&style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
 <img src="https://img.shields.io/github/repos/aditya226-sharma?color=00D4FF&style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
 <img src="https://img.shields.io/github/stars/aditya226-sharma?color=FFD700&style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
