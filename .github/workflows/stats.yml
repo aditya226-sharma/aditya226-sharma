@@ -1,0 +1,31 @@
+name: Generate Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate profile stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak stats
+        uses: gautamkrishnar/readme-streak-stats@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          langs_count: 8

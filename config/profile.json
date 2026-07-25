@@ -1,0 +1,38 @@
+{
+  "personal": {
+    "name": "Aditya Sharma",
+    "username": "aditya226-sharma",
+    "email": "adityaiit687@gmail.com",
+    "title": "Cybersecurity Engineer | AI Security Researcher | Full Stack Developer",
+    "education": "B.Tech in Computer Science Engineering (Cyber Security)",
+    "location": "India"
+  },
+  "social": {
+    "github": "https://github.com/aditya226-sharma",
+    "linkedin": "https://www.linkedin.com/in/aditya-sharma90/",
+    "medium": "https://medium.com/@aditya_sharma_09",
+    "portfolio": "https://adii-sharma.vercel.app/",
+    "tryhackme": "https://tryhackme.com/p/Aditya.Sharma.08",
+    "email": "mailto:adityaiit687@gmail.com"
+  },
+  "skills": {
+    "languages": ["Python", "JavaScript", "TypeScript", "Java", "C", "C++", "Bash"],
+    "frontend": ["HTML", "CSS", "React", "Next.js", "Tailwind CSS"],
+    "backend": ["Node.js", "Express.js", "FastAPI"],
+    "databases": ["MongoDB", "PostgreSQL", "MySQL"],
+    "cloud": ["AWS", "Docker", "Linux", "Git", "GitHub"],
+    "cybersecurity": [
+      "Kali Linux", "Burp Suite", "Wireshark", "Nmap", "Metasploit",
+      "OWASP", "Splunk", "ELK Stack", "Digital Forensics", "Threat Intelligence",
+      "Malware Analysis", "Reverse Engineering", "SOC", "OSINT"
+    ]
+  },
+  "theme": {
+    "primary": "#00D4FF",
+    "secondary": "#FF00FF",
+    "accent": "#00FF88",
+    "background": "#0D1117",
+    "text": "#FFFFFF",
+    "style": "cyberpunk"
+  }
+}
