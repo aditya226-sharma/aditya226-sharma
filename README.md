@@ -394,9 +394,6 @@ Modern, responsive portfolio website showcasing projects, skills, and achievemen
 [![Verify](https://img.shields.io/badge/🔗-View_Program-FF9900?style=for-the-badge)](https://www.theforage.com)
 
 </td>
-<td width="50%">
-
-</td>
 </tr>
 </table>
 
