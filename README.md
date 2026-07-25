@@ -137,31 +137,7 @@ I'm a passionate **Cybersecurity Engineering** student who believes in learning 
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aditya226-sharma&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true)
-
-</div>
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya226-sharma&theme=tokyonight&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=FF4444&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=484f58&border=30363d" width="400"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -170,6 +146,47 @@ I'm a passionate **Cybersecurity Engineering** student who believes in learning 
 <img src="https://img.shields.io/github/repos/aditya226-sharma?color=00D4FF&style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
 <img src="https://img.shields.io/github/stars/aditya226-sharma?color=FFD700&style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
 <img src="https://img.shields.io/github/following/aditya226-sharma?color=00FF88&style=for-the-badge&logo=github&logoColor=white" alt="Following"/>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🔥 GitHub Stats
+
+<img src="https://github-stats-extended.vercel.app/api?username=aditya226-sharma&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true" width="100%"/>
+
+</td>
+<td align="center" width="50%">
+
+### 🏆 Top Languages
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aditya226-sharma&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&langs_count=8" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya226-sharma&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="100%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🔥 Streak Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya226-sharma&theme=tokyonight&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=FF4444&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=484f58&border=30363d" width="600"/>
 
 </div>
 
