@@ -302,12 +302,6 @@ timeline
 
 ---
 
-## Snake Animation
-
-![Snake animation](https://raw.githubusercontent.com/aditya226-sharma/aditya226-sharma/output/github-contribution-grid-snake-dark.svg)
-
----
-
 ## Visitor Counter
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aditya226-sharma&color=0ff0ff&style=for-the-badge&label=PROFILE+VIEWS)
@@ -317,7 +311,5 @@ timeline
 <div align="center">
 
 **Thanks for visiting my profile!**
-
-![Snake animation](https://raw.githubusercontent.com/aditya226-sharma/aditya226-sharma/output/github-contribution-grid-snake-dark.svg)
 
 </div>
