@@ -149,9 +149,11 @@ I'm a passionate **Cybersecurity Engineering** student who believes in learning 
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=aditya226-sharma&label=Profile+Views&color=00D4FF&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/badge/Total_Contributions-8944-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Total Contributions"/>
-<img src="https://img.shields.io/badge/Member_Since-May_2026-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Member Since"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Faditya226-sharma&query=%24.public_repos&label=Total+Repos&style=social&logo=github" alt="Repos"/>
+<img src="https://komarev.com/ghpvc/?username=aditya226-sharma&label=Profile+Views&color=00D4FF&style=social" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/🔥_Current_Streak-352_Days-FF4444?style=social&logo=fire&logoColor=white" alt="Current Streak"/>
+<img src="https://img.shields.io/badge/🏆_Longest_Streak-353_Days-FFD700?style=social&logo=trophy&logoColor=white" alt="Longest Streak"/>
+<img src="https://img.shields.io/badge/⭐_Total_Contributions-8945-58a6ff?style=social&logo=github&logoColor=white" alt="Total Contributions"/>
 
 </div>
 
@@ -159,10 +161,9 @@ I'm a passionate **Cybersecurity Engineering** student who believes in learning 
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/aditya226-sharma?color=FF4444&style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
-<img src="https://img.shields.io/github/repos/aditya226-sharma?color=00D4FF&style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
-<img src="https://img.shields.io/github/stars/aditya226-sharma?color=FFD700&style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
-<img src="https://img.shields.io/github/following/aditya226-sharma?color=00FF88&style=for-the-badge&logo=github&logoColor=white" alt="Following"/>
+<img src="https://img.shields.io/github/followers/aditya226-sharma?color=FF4444&style=social&logo=github&logoColor=white" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/aditya226-sharma?color=FFD700&style=social&logo=github&logoColor=white" alt="Stars"/>
+<img src="https://img.shields.io/github/following/aditya226-sharma?color=00FF88&style=social&logo=github&logoColor=white" alt="Following"/>
 
 </div>
 
