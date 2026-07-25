@@ -173,10 +173,6 @@ I'm a passionate **Cybersecurity Engineering** student who believes in learning 
 
 </div>
 
-<br>
-
-![GitHub Metrics](https://github-profile-trophy.vercel.app/?username=aditya226-sharma&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=10)
-
 ---
 
 ## Featured Projects
