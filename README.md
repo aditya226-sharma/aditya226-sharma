@@ -1,124 +1,212 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://raw.githubusercontent.com/aditya226-sharma/aditya226-sharma/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<!-- 3D Animated Background -->
+<div style="perspective: 1000px;">
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=aditya226-sharma&color=0ff0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<!-- Glowing Profile Frame -->
+<div style="
+  width: 200px; height: 200px;
+  margin: 0 auto 20px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #00d4ff, #7b2cbf, #ff006e, #00d4ff);
+  background-size: 400% 400%;
+  animation: rotate3d 6s ease infinite, glow 2s ease-in-out infinite alternate;
+  padding: 4px;
+  box-shadow: 0 0 60px rgba(0, 212, 255, 0.6), 0 0 120px rgba(123, 44, 191, 0.4);
+">
+  <div style="
+    width: 100%; height: 100%;
+    border-radius: 50%;
+    background: #0D1117;
+    display: flex; align-items: center; justify-content: center;
+    overflow: hidden;
+  ">
+    <img src="https://github.com/aditya226-sharma.png" width="180" style="border-radius: 50%; filter: drop-shadow(0 0 20px rgba(0, 212, 255, 0.8));" alt="Aditya Sharma"/>
+  </div>
+</div>
+
+<!-- 3D Rotating Name -->
+<div style="
+  font-size: 3em;
+  font-weight: 900;
+  background: linear-gradient(90deg, #00d4ff, #7b2cbf, #ff006e, #00d4ff);
+  background-size: 300% 300%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: gradientShift 4s ease infinite;
+  text-shadow: 0 0 40px rgba(0, 212, 255, 0.5);
+  letter-spacing: 3px;
+  transform: perspective(500px) rotateX(10deg);
+  transition: transform 0.3s ease;
+">
+  ADITYA SHARMA
+</div>
+
+<!-- Glitch Effect Subtitle -->
+<div style="
+  font-size: 1.2em;
+  color: #00d4ff;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+  animation: flicker 3s infinite;
+  margin: 10px 0;
+">
+  CYBERSECURITY ENGINEER
+</div>
+
+<!-- Typing Animation -->
+<div style="margin: 20px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Cybersecurity+Engineer+%7C+AI+Security+Researcher;Full+Stack+Developer+%7C+Open+Source+Contributor;Technical+Writer+%7C+Hackathon+Enthusiast;Building+Secure+Digital+Solutions;Learning+Something+New+Every+Day" alt="Typing SVG" />
+</div>
+
+<!-- 3D Floating Badges -->
+<div style="perspective: 800px; transform-style: preserve-3d;">
+  <a href="https://adii-sharma.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white& animation: float 3s ease-in-out infinite;" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-sharma90/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@aditya_sharma_09">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://tryhackme.com/p/Aditya.Sharma.08">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+  </a>
+  <a href="mailto:adityaiit687@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<!-- Profile Views with Glow -->
+<div style="margin-top: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=aditya226-sharma&color=0ff0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<!-- Hero Banner -->
-<img src="https://raw.githubusercontent.com/aditya226-sharma/aditya226-sharma/output/snake-dark.svg" width="100%"/>
+<style>
+  @keyframes rotate3d {
+    0% { transform: rotateY(0deg) rotateX(0deg); }
+    25% { transform: rotateY(10deg) rotateX(5deg); }
+    50% { transform: rotateY(0deg) rotateX(10deg); }
+    75% { transform: rotateY(-10deg) rotateX(5deg); }
+    100% { transform: rotateY(0deg) rotateX(0deg); }
+  }
+  
+  @keyframes glow {
+    from { box-shadow: 0 0 30px rgba(0, 212, 255, 0.4); }
+    to { box-shadow: 0 0 80px rgba(123, 44, 191, 0.8), 0 0 120px rgba(255, 0, 110, 0.4); }
+  }
+  
+  @keyframes gradientShift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+  
+  @keyframes flicker {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.8; }
+    52% { opacity: 1; }
+    54% { opacity: 0.6; }
+    56% { opacity: 1; }
+  }
+  
+  @keyframes float {
+    0%, 100% { transform: translateY(0px) rotateX(0deg); }
+    50% { transform: translateY(-10px) rotateX(5deg); }
+  }
+  
+  @keyframes slideIn {
+    from { opacity: 0; transform: translateY(30px) rotateX(-10deg); }
+    to { opacity: 1; transform: translateY(0) rotateX(0deg); }
+  }
+  
+  @keyframes pulse3d {
+    0%, 100% { transform: scale(1) rotateY(0deg); }
+    50% { transform: scale(1.05) rotateY(5deg); }
+  }
+</style>
 
 </div>
 
 ---
 
-<br/>
+<!-- 3D Stats Section -->
+<div style="perspective: 1000px;">
 
-<div align="center">
+## **GitHub Statistics**
 
-# **Aditya Sharma**
+<div style="
+  background: linear-gradient(135deg, rgba(0, 212, 255, 0.1), rgba(123, 44, 191, 0.1));
+  border: 1px solid rgba(0, 212, 255, 0.3);
+  border-radius: 20px;
+  padding: 30px;
+  margin: 20px 0;
+  transform: perspective(1000px) rotateX(2deg);
+  box-shadow: 0 20px 60px rgba(0, 212, 255, 0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+" onmouseover="this.style.transform='perspective(1000px) rotateX(0deg) translateY(-10px)';this.style.boxShadow='0 30px 80px rgba(0, 212, 255, 0.4)'" onmouseout="this.style.transform='perspective(1000px) rotateX(2deg)';this.style.boxShadow='0 20px 60px rgba(0, 212, 255, 0.2)'">
 
-### Cybersecurity Engineer | AI Security Researcher | Full Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Cybersecurity+Engineer;AI+Security+Researcher;Full+Stack+Developer;Open+Source+Contributor;Technical+Writer;Hackathon+Enthusiast;Building+Secure+Digital+Solutions;Learning+Something+New+Every+Day" alt="Typing SVG" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adii-sharma.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sharma90/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aditya_sharma_09)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Aditya.Sharma.08)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaiit687@gmail.com)
-
-</div>
-
-<br/>
-
----
-
-## **About Me**
-
-<br/>
-
-<div align="center">
-
-```yaml
-name: "Aditya Sharma"
-title: "Cybersecurity Engineer & AI Security Researcher"
-education: "B.Tech in Computer Science Engineering (Cyber Security)"
-location: "India"
-languages: ["Python", "JavaScript", "TypeScript", "Java", "C", "C++", "Bash"]
-interests:
-  - Cybersecurity
-  - Artificial Intelligence
-  - Full Stack Development
-  - Cloud Security
-  - Open Source
-current_focus: "Building AI-powered security solutions"
-philosophy: "Learning by building real-world projects"
-fun_fact: "I participate in hackathons and publish technical articles on Medium"
-```
+<a href="https://github.com/aditya226-sharma">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aditya226-sharma&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya226-sharma&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css" />
+</a>
 
 </div>
 
-I'm a passionate **Cybersecurity Engineering** student who believes in learning by building. I specialize in creating **AI-powered security solutions**, **full-stack applications**, and **open-source tools**. When I'm not writing code, you'll find me publishing technical articles on [Medium](https://medium.com/@aditya_sharma_09), competing in hackathons, or exploring new vulnerabilities on [TryHackMe](https://tryhackme.com/p/Aditya.Sharma.08).
+<div style="
+  background: linear-gradient(135deg, rgba(255, 0, 110, 0.1), rgba(123, 44, 191, 0.1));
+  border: 1px solid rgba(255, 0, 110, 0.3);
+  border-radius: 20px;
+  padding: 30px;
+  margin: 20px 0;
+  transform: perspective(1000px) rotateX(-2deg);
+  box-shadow: 0 20px 60px rgba(255, 0, 110, 0.2);
+  transition: transform 0.3s ease;
+" onmouseover="this.style.transform='perspective(1000px) rotateX(0deg) translateY(-10px)'" onmouseout="this.style.transform='perspective(1000px) rotateX(-2deg)'">
 
----
+<a href="https://github.com/aditya226-sharma">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya226-sharma&theme=radical&hide_border=true" width="700" />
+</a>
 
-## **Career Interests**
+</div>
 
-<br/>
+<div style="
+  background: linear-gradient(135deg, rgba(0, 255, 136, 0.1), rgba(0, 212, 255, 0.1));
+  border: 1px solid rgba(0, 255, 136, 0.3);
+  border-radius: 20px;
+  padding: 30px;
+  margin: 20px 0;
+  transform: perspective(1000px) rotateX(2deg);
+  box-shadow: 0 20px 60px rgba(0, 255, 136, 0.2);
+  animation: pulse3d 4s ease-in-out infinite;
+">
 
-<div align="center">
+![GitHub Metrics](https://github-profile-trophy.vercel.app/?username=aditya226-sharma&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=10)
 
-| Security | Development | Research |
-|:---:|:---:|:---:|
-| ![AI Security](https://img.shields.io/badge/AI_Security-00D4FF?style=for-the-badge) | ![Full Stack](https://img.shields.io/badge/Full_Stack-00FF88?style=for-the-badge) | ![AI Research](https://img.shields.io/badge/AI_Research-FF00FF?style=for-the-badge) |
-| ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-FF4444?style=for-the-badge) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![ML Security](https://img.shields.io/badge/ML_Security-FFD700?style=for-the-badge) |
-| ![Penetration Testing](https://img.shields.io/badge/Pen_Testing-FF6B35?style=for-the-badge) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Threat Intel](https://img.shields.io/badge/Threat_Intel-E74C3C?style=for-the-badge) |
-| ![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-9B59B6?style=for-the-badge) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-3498DB?style=for-the-badge) |
-| ![SOC Operations](https://img.shields.io/badge/SOC_Operations-2ECC71?style=for-the-badge) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Reverse Engineering](https://img.shields.io/badge/Reverse_EngineERING-E67E22?style=for-the-badge) |
-| ![DevSecOps](https://img.shields.io/badge/DevSecOps-FF9FF3?style=for-the-badge) | ![Cloud](https://img.shields.io/badge/Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![OSINT](https://img.shields.io/badge/OSINT-1ABC9C?style=for-the-badge) |
+</div>
 
 </div>
 
 ---
 
-## **Current Mission**
-
-<br/>
-
-<div align="center">
-
-![Mission](https://img.shields.io/badge/-Building_practical_cybersecurity_projects-00D4FF?style=for-the-badge&logo=shield&logoColor=white)
-![Mission](https://img.shields.io/badge/-Creating_AI-powered_security_solutions-FF00FF?style=for-the-badge&logo=robot&logoColor=white)
-![Mission](https://img.shields.io/badge/-Learning_advanced_offensive_and_defensive_security-00FF88?style=for-the-badge&logo=lock&logoColor=white)
-![Mission](https://img.shields.io/badge/-Building_production-ready_applications-FFD700?style=for-the-badge&logo=rocket&logoColor=black)
-![Mission](https://img.shields.io/badge/-Contributing_to_open_source-FF4444?style=for-the-badge&logo=github&logoColor=white)
-![Mission](https://img.shields.io/badge/-Publishing_cybersecurity_articles-9B59B6?style=for-the-badge&logo=medium&logoColor=white)
-![Mission](https://img.shields.io/badge/-Becoming_a_professional_Cybersecurity_Engineer-3498DB?style=for-the-badge&logo=briefcase&logoColor=white)
-![Mission](https://img.shields.io/badge/-Helping_developers_build_secure_software-2ECC71?style=for-the-badge&logo=checkmark&logoColor=white)
-
-</div>
-
----
+<!-- 3D Tech Stack Section -->
+<div style="perspective: 1000px;">
 
 ## **Tech Stack**
 
-<br/>
-
-<div align="center">
+<div style="
+  background: linear-gradient(135deg, rgba(0, 212, 255, 0.05), rgba(123, 44, 191, 0.05));
+  border: 1px solid rgba(0, 212, 255, 0.2);
+  border-radius: 20px;
+  padding: 40px;
+  margin: 20px 0;
+  transform: perspective(1000px) rotateY(2deg);
+  box-shadow: 0 30px 80px rgba(0, 212, 255, 0.15);
+  transition: all 0.4s ease;
+" onmouseover="this.style.transform='perspective(1000px) rotateY(0deg) scale(1.02)';this.style.boxShadow='0 40px 100px rgba(0, 212, 255, 0.3)'" onmouseout="this.style.transform='perspective(1000px) rotateY(2deg)';this.style.boxShadow='0 30px 80px rgba(0, 212, 255, 0.15)'">
 
 ### Languages
 
@@ -138,17 +226,13 @@ I'm a passionate **Cybersecurity Engineering** student who believes in learning 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
+### Backend & Databases
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Databases
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Cloud & DevOps
 
@@ -156,7 +240,6 @@ I'm a passionate **Cybersecurity Engineering** student who believes in learning 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Cybersecurity
 
@@ -165,68 +248,31 @@ I'm a passionate **Cybersecurity Engineering** student who believes in learning 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4D9900?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2D2136?style=for-the-badge&logo=metasploit&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-65A637?style=for-the-badge&logo=splunk&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+
+</div>
 
 </div>
 
 ---
 
-## **GitHub Statistics**
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/aditya226-sharma">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aditya226-sharma&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya226-sharma&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/aditya226-sharma">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya226-sharma&theme=radical&hide_border=true" width="700" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![GitHub Metrics](https://github-profile-trophy.vercel.app/?username=aditya226-sharma&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=10)
-
-</div>
-
----
-
-## **GitHub Snake Animation**
-
-<br/>
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/aditya226-sharma/aditya226-sharma/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
+<!-- 3D Projects Section -->
+<div style="perspective: 1000px;">
 
 ## **Featured Projects**
-
-<br/>
-
-<div align="center">
 
 <table>
 <tr>
 <td width="50%">
+
+<div style="
+  background: linear-gradient(135deg, rgba(0, 212, 255, 0.1), rgba(123, 44, 191, 0.1));
+  border: 1px solid rgba(0, 212, 255, 0.3);
+  border-radius: 15px;
+  padding: 25px;
+  transform: perspective(800px) rotateY(5deg) rotateX(2deg);
+  box-shadow: 0 20px 50px rgba(0, 212, 255, 0.3);
+  transition: all 0.4s ease;
+" onmouseover="this.style.transform='perspective(800px) rotateY(0deg) rotateX(0deg) translateY(-15px)';this.style.boxShadow='0 30px 70px rgba(0, 212, 255, 0.5)'" onmouseout="this.style.transform='perspective(800px) rotateY(5deg) rotateX(2deg)';this.style.boxShadow='0 20px 50px rgba(0, 212, 255, 0.3)'">
 
 ### AI Malware Detection
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
@@ -238,8 +284,20 @@ AI-powered malware detection system using machine learning algorithms to identif
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya226-sharma)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00D4FF?style=for-the-badge)](https://adii-sharma.vercel.app/)
 
+</div>
+
 </td>
 <td width="50%">
+
+<div style="
+  background: linear-gradient(135deg, rgba(255, 0, 110, 0.1), rgba(123, 44, 191, 0.1));
+  border: 1px solid rgba(255, 0, 110, 0.3);
+  border-radius: 15px;
+  padding: 25px;
+  transform: perspective(800px) rotateY(-5deg) rotateX(2deg);
+  box-shadow: 0 20px 50px rgba(255, 0, 110, 0.3);
+  transition: all 0.4s ease;
+" onmouseover="this.style.transform='perspective(800px) rotateY(0deg) rotateX(0deg) translateY(-15px)';this.style.boxShadow='0 30px 70px rgba(255, 0, 110, 0.5)'" onmouseout="this.style.transform='perspective(800px) rotateY(-5deg) rotateX(2deg)';this.style.boxShadow='0 20px 50px rgba(255, 0, 110, 0.3)'">
 
 ### Cyber AI Platform
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
@@ -251,10 +309,22 @@ Full-stack cybersecurity platform integrating AI for threat detection, vulnerabi
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya226-sharma)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00D4FF?style=for-the-badge)](https://adii-sharma.vercel.app/)
 
+</div>
+
 </td>
 </tr>
 <tr>
 <td width="50%">
+
+<div style="
+  background: linear-gradient(135deg, rgba(0, 255, 136, 0.1), rgba(0, 212, 255, 0.1));
+  border: 1px solid rgba(0, 255, 136, 0.3);
+  border-radius: 15px;
+  padding: 25px;
+  transform: perspective(800px) rotateY(5deg) rotateX(-2deg);
+  box-shadow: 0 20px 50px rgba(0, 255, 136, 0.3);
+  transition: all 0.4s ease;
+" onmouseover="this.style.transform='perspective(800px) rotateY(0deg) rotateX(0deg) translateY(-15px)';this.style.boxShadow='0 30px 70px rgba(0, 255, 136, 0.5)'" onmouseout="this.style.transform='perspective(800px) rotateY(5deg) rotateX(-2deg)';this.style.boxShadow='0 20px 50px rgba(0, 255, 136, 0.3)'">
 
 ### AI Security Assistant
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
@@ -266,8 +336,20 @@ Intelligent security assistant powered by AI to help developers identify vulnera
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya226-sharma)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00D4FF?style=for-the-badge)](https://adii-sharma.vercel.app/)
 
+</div>
+
 </td>
 <td width="50%">
+
+<div style="
+  background: linear-gradient(135deg, rgba(255, 215, 0, 0.1), rgba(255, 107, 53, 0.1));
+  border: 1px solid rgba(255, 215, 0, 0.3);
+  border-radius: 15px;
+  padding: 25px;
+  transform: perspective(800px) rotateY(-5deg) rotateX(-2deg);
+  box-shadow: 0 20px 50px rgba(255, 215, 0, 0.3);
+  transition: all 0.4s ease;
+" onmouseover="this.style.transform='perspective(800px) rotateY(0deg) rotateX(0deg) translateY(-15px)';this.style.boxShadow='0 30px 70px rgba(255, 215, 0, 0.5)'" onmouseout="this.style.transform='perspective(800px) rotateY(-5deg) rotateX(-2deg)';this.style.boxShadow='0 20px 50px rgba(255, 215, 0, 0.3)'">
 
 ### Threat Intelligence Dashboard
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
@@ -279,32 +361,7 @@ Real-time threat intelligence dashboard with data visualization, IOC tracking, a
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya226-sharma)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00D4FF?style=for-the-badge)](https://adii-sharma.vercel.app/)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Security Automation Toolkit
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-Collection of automated security tools for vulnerability scanning, penetration testing, and security auditing.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya226-sharma)
-
-</td>
-<td width="50%">
-
-### Personal Portfolio
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-
-Modern, responsive portfolio website showcasing projects, skills, and achievements with premium UI/UX design.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya226-sharma)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00D4FF?style=for-the-badge)](https://adii-sharma.vercel.app/)
+</div>
 
 </td>
 </tr>
@@ -314,29 +371,21 @@ Modern, responsive portfolio website showcasing projects, skills, and achievemen
 
 ---
 
-## **Blog**
+<!-- 3D Social Section -->
+<div style="perspective: 1000px;">
 
-<br/>
+## **Connect With Me**
 
-<div align="center">
-
-![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)
-
-Latest articles from my [Medium Blog](https://medium.com/@aditya_sharma_09):
-
-<!-- BLOG_POST_LIST:START -->
-_Fetching latest articles..._
-<!-- BLOG_POST_LIST:END -->
-
-</div>
-
----
-
-## **Social Section**
-
-<br/>
-
-<div align="center">
+<div style="
+  background: linear-gradient(135deg, rgba(0, 212, 255, 0.05), rgba(255, 0, 110, 0.05));
+  border: 1px solid rgba(0, 212, 255, 0.2);
+  border-radius: 20px;
+  padding: 40px;
+  margin: 20px 0;
+  transform: perspective(1000px) rotateX(3deg);
+  box-shadow: 0 30px 80px rgba(0, 212, 255, 0.15);
+  transition: all 0.4s ease;
+" onmouseover="this.style.transform='perspective(1000px) rotateX(0deg) scale(1.02)'" onmouseout="this.style.transform='perspective(1000px) rotateX(3deg)'">
 
 <a href="https://github.com/aditya226-sharma">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -359,42 +408,48 @@ _Fetching latest articles..._
 
 </div>
 
----
-
-## **Certifications**
-
-<br/>
-
-<div align="center">
-
-![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![CompTIA](https://img.shields.io/badge/CompTIA-E8142D?style=for-the-badge&logo=comptia&logoColor=white)
-![EC-Council](https://img.shields.io/badge/EC--Council-FF6B00?style=for-the-badge&logo=ec-council&logoColor=white)
-![ISC2](https://img.shields.io/badge/ISC2-003366?style=for-the-badge&logo=isc2&logoColor=white)
-
 </div>
 
 ---
 
+<!-- 3D Trophies Section -->
+<div style="perspective: 1000px;">
+
 ## **Achievements**
 
-<br/>
-
-<div align="center">
+<div style="
+  background: linear-gradient(135deg, rgba(123, 44, 191, 0.1), rgba(255, 0, 110, 0.1));
+  border: 1px solid rgba(123, 44, 191, 0.3);
+  border-radius: 20px;
+  padding: 30px;
+  margin: 20px 0;
+  transform: perspective(1000px) rotateY(-2deg);
+  box-shadow: 0 20px 60px rgba(123, 44, 191, 0.2);
+  transition: all 0.4s ease;
+" onmouseover="this.style.transform='perspective(1000px) rotateY(0deg) translateY(-10px)'" onmouseout="this.style.transform='perspective(1000px) rotateY(-2deg)'">
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=aditya226-sharma&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=10)
 
 </div>
 
+</div>
+
 ---
+
+<!-- 3D Journey Timeline -->
+<div style="perspective: 1000px;">
 
 ## **Cybersecurity Journey**
 
-<br/>
+<div style="
+  background: linear-gradient(135deg, rgba(0, 212, 255, 0.05), rgba(0, 255, 136, 0.05));
+  border: 1px solid rgba(0, 212, 255, 0.2);
+  border-radius: 20px;
+  padding: 30px;
+  margin: 20px 0;
+  transform: perspective(1000px) rotateX(2deg);
+  box-shadow: 0 20px 60px rgba(0, 212, 255, 0.15);
+">
 
 ```mermaid
 timeline
@@ -406,35 +461,69 @@ timeline
     2026 : Professional Cybersecurity Engineer : Advanced AI Security
 ```
 
----
-
-## **Daily Cybersecurity Quote**
-
-<br/>
-
-<div align="center">
-
-_"The only truly secure system is one that is powered off, cast in a block of concrete, and sealed in a lead-lined room with armed guards - and even then I have my doubts."_ — **Gene Spafford**
+</div>
 
 </div>
 
 ---
 
-## **Visitor Counter**
+<!-- Snake Animation -->
+<div style="perspective: 1000px;">
 
-<br/>
+## **Contribution Activity**
 
-<div align="center">
+<div style="
+  background: linear-gradient(135deg, rgba(0, 212, 255, 0.05), rgba(123, 44, 191, 0.05));
+  border: 1px solid rgba(0, 212, 255, 0.2);
+  border-radius: 20px;
+  padding: 30px;
+  margin: 20px 0;
+  transform: perspective(1000px) rotateX(-2deg);
+  box-shadow: 0 20px 60px rgba(0, 212, 255, 0.15);
+  transition: all 0.4s ease;
+" onmouseover="this.style.transform='perspective(1000px) rotateX(0deg) scale(1.01)'" onmouseout="this.style.transform='perspective(1000px) rotateX(-2deg)'">
+
+![Snake animation](https://raw.githubusercontent.com/aditya226-sharma/aditya226-sharma/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+</div>
+
+---
+
+<!-- 3D Visitor Counter -->
+<div style="perspective: 1000px; text-align: center;">
+
+<div style="
+  display: inline-block;
+  background: linear-gradient(135deg, rgba(0, 212, 255, 0.1), rgba(255, 0, 110, 0.1));
+  border: 1px solid rgba(0, 212, 255, 0.3);
+  border-radius: 50px;
+  padding: 15px 30px;
+  transform: perspective(500px) rotateX(5deg);
+  box-shadow: 0 15px 40px rgba(0, 212, 255, 0.3);
+  transition: all 0.3s ease;
+" onmouseover="this.style.transform='perspective(500px) rotateX(0deg) translateY(-5px)'" onmouseout="this.style.transform='perspective(500px) rotateX(5deg)'">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aditya226-sharma&color=0ff0ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
+</div>
+
 ---
 
-<div align="center">
+<div align="center" style="perspective: 1000px;">
 
-### **Thanks for visiting my profile!**
+<div style="
+  font-size: 1.5em;
+  color: #00d4ff;
+  margin: 30px 0;
+  text-shadow: 0 0 20px rgba(0, 212, 255, 0.5);
+  transform: perspective(500px) rotateX(5deg);
+">
+  Thanks for visiting my profile!
+</div>
 
 ![Snake animation](https://raw.githubusercontent.com/aditya226-sharma/aditya226-sharma/output/github-contribution-grid-snake-dark.svg)
 
