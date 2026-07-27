@@ -742,3 +742,17 @@ timeline
 **Thanks for visiting my profile!**
 
 </div>
+
+---
+
+## Dev Log
+
+<details open>
+<summary><b>July 2026</b></summary>
+
+<br>
+
+- **July 27** — Deployed 22+ repos to Vercel (Next.js, Vite, static HTML) across multiple projects. Fixed CI/CD, TypeScript errors, and Vercel config issues.
+- **July 28** — Continued deployments, fixed remaining TypeScript errors, lockfile issues, and template cleanup across remaining repos.
+
+</details>
