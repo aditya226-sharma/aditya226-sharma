@@ -14,25 +14,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch Medium articles
-        id: medium
-        run: |
-          RSS_URL="https://medium.com/feed/@aditya_sharma_09"
-          ARTICLES=$(curl -s "$RSS_URL" | grep -oP '<title><!\[CDATA\[.*?\]\]></title>' | head -5 | sed 's/<title><!\[CDATA\[//g; s/\]\]><\/title>//g')
-          
-          echo "articles<<EOF" >> $GITHUB_OUTPUT
-          echo "| # | Title |" >> $GITHUB_OUTPUT
-          echo "|---|-------|" >> $GITHUB_OUTPUT
-          i=1
-          while IFS= read -r title; do
-            echo "| $i | $title |" >> $GITHUB_OUTPUT
-            i=$((i+1))
-          done <<< "$ARTICLES"
-          echo "EOF" >> $GITHUB_OUTPUT
-
-      - name: Update README
-        uses: jaywcjlove/github-action-update-readme@main
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          readme: README.md
-          replace: '<!-- BLOG_POST_LIST:START -->.*<!-- BLOG_POST_LIST:END -->'
-          content: '<!-- BLOG_POST_LIST:START -->\n${{ steps.medium.outputs.articles }}\n<!-- BLOG_POST_LIST:END -->'
+          feed_list: "https://medium.com/feed/@aditya_sharma_09"
+          template: "$newline| # $title |"
+          max_post_count: 5
+          comment_tag_name: "BLOG_POST_LIST"
+          committer_username: "aditya226-sharma"
+          committer_email: "aditya226sharma@gmail.com"
