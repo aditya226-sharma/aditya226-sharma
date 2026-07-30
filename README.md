@@ -70,7 +70,7 @@ I'm a passionate **Cybersecurity Engineering** student who believes in learning 
 | ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-FF4444?style=for-the-badge) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![ML Security](https://img.shields.io/badge/ML_Security-FFD700?style=for-the-badge) |
 | ![Penetration Testing](https://img.shields.io/badge/Pen_Testing-FF6B35?style=for-the-badge) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Threat Intel](https://img.shields.io/badge/Threat_Intel-E74C3C?style=for-the-badge) |
 | ![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-9B59B6?style=for-the-badge) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-3498DB?style=for-the-badge) |
-| ![SOC Operations](https://img.shields.io/badge/SOC_Operations-2ECC71?style=for-the-badge) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Reverse Engineering](https://img.shields.io/badge/Reverse_EngineERING-E67E22?style=for-the-badge) |
+| ![SOC Operations](https://img.shields.io/badge/SOC_Operations-2ECC71?style=for-the-badge) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-E67E22?style=for-the-badge) |
 | ![DevSecOps](https://img.shields.io/badge/DevSecOps-FF9FF3?style=for-the-badge) | ![Cloud](https://img.shields.io/badge/Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![OSINT](https://img.shields.io/badge/OSINT-1ABC9C?style=for-the-badge) |
 
 ---
@@ -198,70 +198,68 @@ I'm a passionate **Cybersecurity Engineering** student who believes in learning 
 <tr>
 <td width="50%">
 
-### AI Malware Detection
+### CYBERVERSE
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-AI-powered malware detection system using machine learning algorithms to identify and classify malicious files in real-time.
+The world's first interactive 3D cyber defense simulation — an immersive cybersecurity training environment built with Three.js.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya226-sharma)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya226-sharma/CYBERVERSE)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00D4FF?style=for-the-badge)](https://adii-sharma.vercel.app/)
 
 </td>
 <td width="50%">
 
-### Cyber AI Platform
+### Security Arsenal
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-Full-stack cybersecurity platform integrating AI for threat detection, vulnerability scanning, and security monitoring.
+A comprehensive cybersecurity toolkit for security professionals — includes scanners, exploit utilities, and forensic analysis tools.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya226-sharma)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00D4FF?style=for-the-badge)](https://adii-sharma.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya226-sharma/security-arsenal)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### AI Security Assistant
+### NetSentinel
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-Intelligent security assistant powered by AI to help developers identify vulnerabilities and implement secure coding practices.
+Network traffic analysis and security monitoring framework — captures, analyzes, and alerts on suspicious network activity in real-time.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya226-sharma)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya226-sharma/netsentinel)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00D4FF?style=for-the-badge)](https://adii-sharma.vercel.app/)
 
 </td>
 <td width="50%">
 
-### Threat Intelligence Dashboard
+### Zero Trust Lab
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-Real-time threat intelligence dashboard with data visualization, IOC tracking, and automated alerting systems.
+Zero Trust security architecture implementation with micro-segmentation, continuous verification, and least-privilege access controls.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya226-sharma)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00D4FF?style=for-the-badge)](https://adii-sharma.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya226-sharma/zero-trust-lab)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### Security Automation Toolkit
+### PhishGuard
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-Collection of automated security tools for vulnerability scanning, penetration testing, and security auditing.
+AI-powered phishing detection system that analyzes URLs, email headers, and page content to identify and block phishing attempts.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya226-sharma)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya226-sharma/PhishGuard)
 
 </td>
 <td width="50%">
@@ -273,7 +271,7 @@ Collection of automated security tools for vulnerability scanning, penetration t
 
 Modern, responsive portfolio website showcasing projects, skills, and achievements with premium UI/UX design.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya226-sharma)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya226-sharma/adii-sharma)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00D4FF?style=for-the-badge)](https://adii-sharma.vercel.app/)
 
 </td>
@@ -754,5 +752,6 @@ timeline
 
 - **July 27** — Deployed 22+ repos to Vercel (Next.js, Vite, static HTML) across multiple projects. Fixed CI/CD, TypeScript errors, and Vercel config issues.
 - **July 28** — Continued deployments, fixed remaining TypeScript errors, lockfile issues, and template cleanup across remaining repos.
+- **July 30** — Updated GitHub profile README with refreshed content, fixed badge typos, added new featured projects (CYBERVERSE, security-arsenal), and replaced generic profile links with direct repo links.
 
 </details>
