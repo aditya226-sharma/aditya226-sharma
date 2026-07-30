@@ -186,7 +186,7 @@ I'm a passionate **Cybersecurity Engineering** student who believes in learning 
 
 ### 🔥 Streak Stats
 
-<img src="https://streak-stats.demolab.com?user=aditya226-sharma&theme=radical&hide_border=true" width="600"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya226-sharma&theme=radical" width="600"/>
 
 </div>
 
