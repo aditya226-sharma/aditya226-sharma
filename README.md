@@ -292,8 +292,8 @@ Latest articles from my [Medium Blog](https://medium.com/@aditya_sharma_09):
 
 <table>
   <tr><th>#</th><th>Article</th></tr>
-  <!-- BLOG_POST_LIST:START -->
-  <!-- BLOG_POST_LIST:END -->
+  <!-- BLOG_POST_LIST:START --><tr><td>1</td><td><a href="https://medium.com/@aditya_sharma_09/my-cybersecurity-journey-begins-building-learning-and-sharing-1f176522b701?source=rss-fd0a2e10769b------2">My Cybersecurity Journey Begins: Building, Learning, and Sharing</a></td></tr>
+<!-- BLOG_POST_LIST:END -->
 </table>
 
 </div>
