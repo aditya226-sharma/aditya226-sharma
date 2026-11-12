@@ -17,8 +17,11 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@aditya_sharma_09"
-          template: "$newline| # $title |"
+          template: '<tr><td>$counter</td><td><a href="$url">$title</a></td></tr>$newline'
           max_post_count: 5
           comment_tag_name: "BLOG_POST_LIST"
           committer_username: "aditya226-sharma"
           committer_email: "aditya226sharma@gmail.com"
+          # Retry transient feed failures (3 attempts, 5s apart) before failing the job.
+          retry_count: 3
+          retry_wait_time: 5

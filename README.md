@@ -280,6 +280,26 @@ Modern, responsive portfolio website showcasing projects, skills, and achievemen
 
 ---
 
+## 📝 Latest Blog Posts
+
+<div align="center">
+
+<a href="https://medium.com/@aditya_sharma_09">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+
+Latest articles from my [Medium Blog](https://medium.com/@aditya_sharma_09):
+
+<table>
+  <tr><th>#</th><th>Article</th></tr>
+  <!-- BLOG_POST_LIST:START -->
+  <!-- BLOG_POST_LIST:END -->
+</table>
+
+</div>
+
+---
+
 ## Social Links
 
 <a href="https://github.com/aditya226-sharma">
